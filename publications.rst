@@ -26,6 +26,7 @@ Preprints:
 
 2024:
 
+- https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10632 - Genomics and morphometry of herbarium specimens elucidate the origin of the Cape Verde date palm (Phoenix atlantica A.Chev.) and highlight its agronomic potential
 - https://doi.org/10.1111/1755-0998.13967 - Genomics-informed captive breeding can reduce inbreeding depression and the genetic load in zoo populations
 - https://doi.org/10.1093/jxb/erae371 - Altered expression of a raspberry homologue of VRN1 is associated with disruption of dormancy induction and misregulation of subsets of dormancy-associated genes
 - https://doi.org/10.1093/jac/dkae023 - Consideration of within-patient diversity highlights transmission pathways and antimicrobial resistance gene variability in vancomycin-resistant Enterococcus faecium
